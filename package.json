@@ -1,0 +1,14 @@
+{
+  "name": "rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Read-the-feed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feedparser": "^1.1.4"
+  }
+}
